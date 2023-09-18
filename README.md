@@ -1,3 +1,3 @@
 # First on
 
-Creat a file fot git.
+Creat a file for git.
